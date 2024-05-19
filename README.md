@@ -13,8 +13,8 @@ Click [here](https://www.figma.com/file/RduZYTNm9pYI9tE48DuIo4/Booking-Table-for
 ![ ReservationTable](https://github.com/Magret7/Figma-Designs/assets/40001619/d6267245-98c4-4389-9f95-44546f9fe292)
 
 
-## Music Website UI (Prototype) 
-Click [here]() to view a Figma Design of Music Website UI Prototype 
+## Music Website Landing Page UI (Prototype) 
+Click [here]() to view a Figma Design of Music Website Landing Page UI Prototype 
 <img width="1440" alt="Screenshot 2024-05-19 at 4 56 50 PM" src="https://github.com/Magret7/Figma-and-Canva-Designs/assets/40001619/b4dcabd1-4eb0-404f-8736-20c5a3ad32d4">
 
 
