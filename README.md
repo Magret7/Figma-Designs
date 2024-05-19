@@ -1,4 +1,4 @@
-# Figma-Designs
+# Figm Designs
 
 In the repo, you will fine designs using Figma to create a prototype of an app, website, or web application that allows for a more polished and interactive representation compared to using finger sketches.'
 
@@ -14,5 +14,5 @@ Click [here](https://www.figma.com/file/RduZYTNm9pYI9tE48DuIo4/Booking-Table-for
 
 
 
-
+# Canva Designs - Marketing Collateral Aligning with the Church's Distinctive Branding and Messaging.
 
