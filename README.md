@@ -14,7 +14,7 @@ Click [here](https://www.figma.com/file/RduZYTNm9pYI9tE48DuIo4/Booking-Table-for
 
 
 ## Music Website Landing Page UI (Prototype) 
-Click [here]() to view a Figma Design of Music Website Landing Page UI Prototype 
+Click [here](https://www.figma.com/proto/wXkxJPoJwDGAL6xMtZhu4p/Music-UI-Landing-Page?node-id=2-2&t=SKvDtpS5dQR8UFtH-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2) to view a Figma Design of Music Website Landing Page UI Prototype 
 <img width="1440" alt="Screenshot 2024-05-19 at 4 56 50 PM" src="https://github.com/Magret7/Figma-and-Canva-Designs/assets/40001619/b4dcabd1-4eb0-404f-8736-20c5a3ad32d4">
 
 
